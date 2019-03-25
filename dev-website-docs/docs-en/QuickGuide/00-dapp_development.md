@@ -106,7 +106,7 @@ The results of the invocation will be displayed in the log window of SmartX.
 <p><br>
 
 
-## Check invocation transction
+## Check invocation transaction
 
 You can also use solo-chain to check the invoke function by selecting the Transactions tab and looking for a transaction type of Invoke.
 
