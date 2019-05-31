@@ -219,7 +219,7 @@ def unlock(args):
     return True
 ```
 
-The interface accepts input_bytes as input parameters and deserialize input_bytes into input_map, and then execute the subsequent logic and unlock the assets on chain B to the user.
+The interface accepts input_bytes as input parameters and deserializes input_bytes into input_map, and then execute the subsequent logic and unlock the assets on chain B to the user.
 
 Please note that as target cross-chain contract method, this method can only be called by the cross-chain management contract.
 
